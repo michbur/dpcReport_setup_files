@@ -1,0 +1,5 @@
+# Chrome configuration
+check-off run chrome for background process
+
+in GoogleChromePortable.ini
+AdditionalParameters= --app="http://localhost:8888"
